@@ -1,0 +1,12 @@
+nav{
+    background-color: white;
+    height: 110px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+}
+
+.Nav--logo{
+    width: 200px;
+    height: 67px;
+    padding: 20px;
+    margin-left: 40px;
+}

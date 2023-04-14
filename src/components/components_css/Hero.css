@@ -1,0 +1,35 @@
+/*Hero Styles*/
+
+.Hero--component{
+    padding: 50px;
+    text-align: left;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0 32px 0;
+    margin-bottom: 40px;
+}
+
+.Hero--img{
+    margin: 10px;
+    /*width: 396px;*/
+    /*height: 232px;*/
+}
+
+.Hero--h1{
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 100px;
+    margin-bottom: 20px;
+}
+
+.Hero--p{
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 300;
+    /*width: 800px;*/
+    line-height: 60px;
+}
